@@ -1,0 +1,4 @@
+
+.block-user, .headerSearchBox, .withsecondary, #sidebar-left, #breadcrumb, #navigation {
+    display: none;
+}
